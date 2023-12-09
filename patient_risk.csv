@@ -1,0 +1,11 @@
+PATIENT,Total_Severity,Condition_Count,Risk_Category
+patient_1,43,3,Low
+patient_2,36,9,Low
+patient_3,28,1,High
+patient_4,27,1,Low
+patient_5,36,4,High
+patient_6,41,9,Medium
+patient_7,16,6,High
+patient_8,17,3,High
+patient_9,27,1,Medium
+patient_10,29,4,High
